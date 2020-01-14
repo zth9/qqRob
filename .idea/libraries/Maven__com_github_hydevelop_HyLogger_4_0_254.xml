@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.hydevelop:HyLogger:4.0.254">
+    <CLASSES>
+      <root url="jar://D:/java/Maven/repository/com/github/HyDevelop/HyLogger/4.0.254/HyLogger-4.0.254.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/java/Maven/repository/com/github/hydevelop/HyLogger/4.0.254/HyLogger-4.0.254-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/java/Maven/repository/com/github/hydevelop/HyLogger/4.0.254/HyLogger-4.0.254-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
