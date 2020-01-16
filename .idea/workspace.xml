@@ -6,7 +6,23 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f5058b1-b014-4d1a-8651-695a38b0206a" name="Default Changelist" comment="" />
+    <list default="true" id="0f5058b1-b014-4d1a-8651-695a38b0206a" name="Default Changelist" comment="加入了签到功能">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/javak/qqrob/mapper/SignMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/javak/qqrob/pojo/Sign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/javak/qqrob/service/SignService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/javak/qqrob/service/impl/SignServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/javak/qqrob/utils/BeanUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/javak/qqrob/QqrobApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/javak/qqrob/QqrobApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/javak/qqrob/listener/RobListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/javak/qqrob/listener/RobListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/javak/qqrob/pojo/KeyWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/javak/qqrob/pojo/KeyWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/javak/qqrob/utils/ArtificialFool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/javak/qqrob/utils/ArtificialFool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/javak/qqrob/wordEnum/KeyWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +47,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -62,10 +82,14 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectId" id="1WHzUXTYqSTGaryLyTZbaYnCZZl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/java/a-myProject/news" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
@@ -85,7 +109,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Maven.qqrob [tomcat7:redeploy]">
+  <component name="RunManager" selected="Tomcat Server.qqrob">
     <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.javak.qqrob.Test01" />
       <module name="qqrob" />
@@ -343,11 +367,30 @@
       <updated>1578821323395</updated>
       <workItem from="1578821326971" duration="13352000" />
       <workItem from="1578979480415" duration="5332000" />
-      <workItem from="1579003521419" duration="1772000" />
+      <workItem from="1579003521419" duration="2391000" />
+      <workItem from="1579066015884" duration="15693000" />
+      <workItem from="1579143402293" duration="10134000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="加入了签到功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="加入了签到功能" />
   </component>
 </project>

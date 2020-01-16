@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class KeyWord {
     private static String[] commands;
-    public static Map<String, String[]> mapProblem;
+    private static Map<String, String[]> mapProblem;
     private static String[] iAm;
     private static String[] good;
     private static String[] signIn;
@@ -57,7 +57,7 @@ public class KeyWord {
                 "想得美"
         };
         signIn = new String[]{
-                "签到失败,该功能仍在开发中"
+                "签到"
         };
         mapProblem = new LinkedHashMap<>();
         mapProblem.put("功能", commands);
